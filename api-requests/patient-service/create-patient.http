@@ -1,0 +1,12 @@
+### creates patient
+POST https://localhost:4000/patients
+Content-Type: application/json
+
+{
+  "name": "Lala ram",
+  "email": "lalaram@gmail.com",
+  "address" :"124 max road ",
+  "dateOfBirth": "1995-09-10",
+  "registeredDate": "2026-11-28"
+}
+###
